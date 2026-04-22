@@ -13,7 +13,7 @@
 
 Been coding since 4th grade. Currently finishing high school and looking for my first role.
 
-**Recent:** [**ConvertMint**](https://convertmint.app/) - local image converter, no uploads, no ads · [**Reactea**](https://github.com/londek/reactea) - Standardized TUI toolkit for bubbletea\
+**Recent:** [**ConvertMint**](https://convertmint.app/) - local image converter, no uploads, no ads · [**Reactea**](https://github.com/londek/reactea) - standardized TUI toolkit for bubbletea\
 [**ipadecrypt**](https://github.com/londek/ipadecrypt) - open-source .ipa decryption suite
 
 ---
