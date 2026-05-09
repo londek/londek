@@ -21,8 +21,3 @@ Been coding since 4th grade. Currently finishing high school and looking for my 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,nodejs,cpp,cs,linux" />
 </p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.shion.dev/api?username=londek&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=londek&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</p>
