@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Londek+%F0%9F%91%8B;Developer+%7C+Student+%7C+Tinkerer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Londek+%F0%9F%91%8B;Developer+%7C+Tinkerer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-Been coding since 4th grade. Currently finishing high school and looking for my first role.
+Been coding since 4th grade. Just graduated and currently looking for my first role.
 
 **Recent:** [**ConvertMint**](https://convertmint.app/) - local image converter, no uploads, no ads · [**reactea**](https://github.com/londek/reactea) - standardized TUI toolkit for bubbletea\
 [**ipadecrypt**](https://github.com/londek/ipadecrypt) - open-source .ipa decryption suite
